@@ -1,0 +1,2025 @@
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Mb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R6 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R6 Table Updated>
+<Router R6 Table Updated>
+<Router R6 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /50/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /55/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /40/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.14:10114 /60/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s 
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R6 Table Updated>
+<Router R7 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /40/Gb/s 
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R6 Table Updated>
+<Router R7 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R6 Table Updated>
+<Router R7 Table Updated>
+<Router R5 Table Updated>
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<Router R6 Table Updated>
+<Router R7 Table Updated>
+<Router R5 Table Updated>
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s 
+<LinkConnectionDeallocation> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R6 Table Updated>
+<Router R4 Table Updated>
+<Router R5 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 /50/Gb/s 
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 /100/Gb/s 
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 /50/Gb/s 
+<LinkConnectionDeallocation> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /15/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<Link malfunction> 7
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /12/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 8
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<ConnectionRequestIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 /25/Gb/s 
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse
+<Link malfunction> 10
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<Router R5 Table Updated>
+<Router R4 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 /15/Gb/s 
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R5 Table Updated>
+<Router R7 Table Updated>
+<Router R6 Table Updated>
+<ConnectionRequestReponse> Reponse

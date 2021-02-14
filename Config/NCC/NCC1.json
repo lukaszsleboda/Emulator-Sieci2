@@ -1,0 +1,19 @@
+{
+    "DevName": "NCC1",
+    "DomainName": "D1",
+    "IpAddress": "127.0.0.31",
+    "Port": 30111,
+    "dirFilename": "Config/NCC/Directory.json",
+    "CCModel":
+    	{
+    		"name": "CC1",
+    		"Ip": "127.0.0.41",
+    		"Port": 40111
+    	},
+      "NCCneighbor":
+      {
+        "Name": "NCC2",
+        "IP": "127.0.0.32",
+        "Port": 30112
+      }
+}

@@ -1,0 +1,878 @@
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<RouteTableQueryResponse> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<RouteTableQueryResponse> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<LocalTopology> 
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<RouteTableQueryResponse> 127.0.0.13:10113 -> 127.0.0.11:10111 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 50
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 50
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 55
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 55
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 30
+<RouteTableQueryResponse> 127.0.0.14:10114 -> 127.0.0.11:10111 30
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 30
+<RouteTableQueryResponse> 127.0.0.14:10114 -> 127.0.0.11:10111 30
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.14:10114 20
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.14:10114 20
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 40
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 40
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.14:10114 60
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.14:10114 60
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.13:10113 -> 127.0.0.12:10112 20
+<RouteTableQueryResponse> 127.0.0.13:10113 -> 127.0.0.12:10112 20
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 40
+<RouteTableQueryResponse> 127.0.0.13:10113 -> 127.0.0.11:10111 40
+<LocalTopology> 
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 50
+<RouteTableQueryResponse> 127.0.0.12:10112 -> 127.0.0.13:10113 50
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 100
+<RouteTableQueryResponse> 127.0.0.12:10112 -> 127.0.0.13:10113 100
+<LocalTopology> 
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 200
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 200
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 15
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 15
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 12
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 12
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.14:10114 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<RouteTableQueryResponse> 127.0.0.11:10111 -> 127.0.0.13:10113 10
+<LocalTopology> 
+<RouteTableQueryIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 25
+<RouteTableQueryResponse> 127.0.0.12:10112 -> 127.0.0.13:10113 25
+<LocalTopology> 
+<NetworkTopology>
+<NetworkTopology>GOT
+<NetworkTopology>
+<NetworkTopology>GOT
+<RouteTableQueryIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 15
+<RouteTableQueryResponse> 127.0.0.12:10112 -> 127.0.0.13:10113 15
+<LocalTopology> 

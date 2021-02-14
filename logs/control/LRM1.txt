@@ -1,0 +1,1946 @@
+<LinkConnectionIndicator> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM0]<ResourcesAllocated> 10Mb/s
+[LRM0]<ResourcesAllocated> 10Mb/s
+[LRM0]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM0]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<SNP Negotiation> 3, MyProposal:56, 57, 58, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+<LinkConnectionIndicator> 10Mb/s
+<SNP Negotiation> 3, MyProposal:6, 7, 8, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Mb/s
+[LRM4]<ResourcesDeallocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SNP Negotiation> 3, MyProposal:3, 4, 5, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SNP Negotiation> 3, MyProposal:70, 71, 72, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Mb/s
+[LRM4]<ResourcesDeallocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+<SNP Negotiation> 3, MyProposal:7, 8, 9, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP Negotiation> 5, MyProposal:1, 2, 3, 4, 5, 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Mb/s
+[LRM4]<ResourcesDeallocated> 10Mb/s
+[LRM2]<ResourcesDeallocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM2]<ResourcesAllocated> 10Mb/s
+[LRM1]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Mb/s
+[LRM3]<ResourcesAllocated> 10Mb/s
+[LRM4]<ResourcesAllocated> 10Mb/s
+[LRM5]<ResourcesAllocated> 10Mb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 60Gb/s
+[LRM4]<ResourcesDeallocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM2]<ResourcesAllocated> 60Gb/s
+[LRM1]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 60Gb/s
+[LRM3]<ResourcesAllocated> 60Gb/s
+[LRM4]<ResourcesAllocated> 60Gb/s
+[LRM5]<ResourcesAllocated> 60Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 50Gb/s
+[LRM3]<ResourcesAllocated> 50Gb/s
+[LRM4]<ResourcesAllocated> 50Gb/s
+[LRM5]<ResourcesAllocated> 50Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 55Gb/s
+[LRM3]<ResourcesAllocated> 55Gb/s
+[LRM4]<ResourcesAllocated> 55Gb/s
+[LRM5]<ResourcesAllocated> 55Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 30Gb/s
+<SNP Negotiation> 2, MyProposal:31, 32, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 30Gb/s
+[LRM4]<ResourcesAllocated> 30Gb/s
+[LRM3]<ResourcesAllocated> 30Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 30Gb/s
+<SNP Negotiation> 2, MyProposal:50, 51, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 30Gb/s
+[LRM4]<ResourcesAllocated> 30Gb/s
+[LRM3]<ResourcesAllocated> 30Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 30Gb/s
+[LRM3]<ResourcesAllocated> 30Gb/s
+[LRM4]<ResourcesAllocated> 30Gb/s
+[LRM2]<ResourcesAllocated> 30Gb/s
+[LRM1]<ResourcesAllocated> 30Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 40Gb/s
+[LRM3]<ResourcesAllocated> 40Gb/s
+[LRM4]<ResourcesAllocated> 40Gb/s
+[LRM5]<ResourcesAllocated> 40Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 20Gb/s
+<SNP Negotiation> 1, MyProposal:68, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 40Gb/s
+<SNP Negotiation> 2, MyProposal:20, 21, 
+<SMPNegotiationIndicator>
+[LRM5]<ResourcesAllocated> 40Gb/s
+[LRM4]<ResourcesAllocated> 40Gb/s
+[LRM3]<ResourcesAllocated> 40Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 20Gb/s
+[LRM5]<ResourcesDeallocated> 20Gb/s
+[LRM2]<ResourcesDeallocated> 20Gb/s
+[LRM1]<ResourcesDeallocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 45Gb/s
+[LRM1]<ResourcesAllocated> 45Gb/s
+[LRM2]<ResourcesAllocated> 45Gb/s
+[LRM4]<ResourcesAllocated> 45Gb/s
+[LRM3]<ResourcesAllocated> 45Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 50Gb/s
+[LRM1]<ResourcesAllocated> 50Gb/s
+[LRM2]<ResourcesAllocated> 50Gb/s
+[LRM5]<ResourcesAllocated> 50Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 100Gb/s
+[LRM1]<ResourcesAllocated> 100Gb/s
+[LRM2]<ResourcesAllocated> 100Gb/s
+[LRM5]<ResourcesAllocated> 100Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 50Gb/s
+[LRM1]<ResourcesDeallocated> 50Gb/s
+[LRM2]<ResourcesDeallocated> 50Gb/s
+[LRM5]<ResourcesDeallocated> 50Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 40Gb/s
+[LRM3]<ResourcesAllocated> 40Gb/s
+[LRM4]<ResourcesAllocated> 40Gb/s
+[LRM2]<ResourcesAllocated> 40Gb/s
+[LRM1]<ResourcesAllocated> 40Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 30Gb/s
+[LRM3]<ResourcesAllocated> 30Gb/s
+[LRM4]<ResourcesAllocated> 30Gb/s
+[LRM2]<ResourcesAllocated> 30Gb/s
+[LRM1]<ResourcesAllocated> 30Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 30Gb/s
+[LRM3]<ResourcesDeallocated> 30Gb/s
+[LRM4]<ResourcesDeallocated> 30Gb/s
+[LRM2]<ResourcesDeallocated> 30Gb/s
+[LRM1]<ResourcesDeallocated> 30Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 50Gb/s
+[LRM3]<ResourcesAllocated> 50Gb/s
+[LRM4]<ResourcesAllocated> 50Gb/s
+[LRM2]<ResourcesAllocated> 50Gb/s
+[LRM1]<ResourcesAllocated> 50Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 120Gb/s
+[LRM3]<ResourcesAllocated> 120Gb/s
+[LRM4]<ResourcesAllocated> 120Gb/s
+[LRM2]<ResourcesAllocated> 120Gb/s
+[LRM1]<ResourcesAllocated> 120Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 50Gb/s
+[LRM3]<ResourcesDeallocated> 50Gb/s
+[LRM4]<ResourcesDeallocated> 50Gb/s
+[LRM2]<ResourcesDeallocated> 50Gb/s
+[LRM1]<ResourcesDeallocated> 50Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 100Gb/s
+[LRM3]<ResourcesAllocated> 100Gb/s
+[LRM4]<ResourcesAllocated> 100Gb/s
+[LRM2]<ResourcesAllocated> 100Gb/s
+[LRM1]<ResourcesAllocated> 100Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 100Gb/s
+[LRM3]<ResourcesDeallocated> 100Gb/s
+[LRM4]<ResourcesDeallocated> 100Gb/s
+[LRM2]<ResourcesDeallocated> 100Gb/s
+[LRM1]<ResourcesDeallocated> 100Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 20Gb/s
+[LRM3]<ResourcesAllocated> 20Gb/s
+[LRM4]<ResourcesAllocated> 20Gb/s
+[LRM2]<ResourcesAllocated> 20Gb/s
+[LRM1]<ResourcesAllocated> 20Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 10Gb/s
+[LRM3]<ResourcesDeallocated> 10Gb/s
+[LRM4]<ResourcesDeallocated> 10Gb/s
+[LRM2]<ResourcesDeallocated> 10Gb/s
+[LRM1]<ResourcesDeallocated> 10Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 30Gb/s
+[LRM3]<ResourcesAllocated> 30Gb/s
+[LRM4]<ResourcesAllocated> 30Gb/s
+[LRM2]<ResourcesAllocated> 30Gb/s
+[LRM1]<ResourcesAllocated> 30Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 30Gb/s
+[LRM3]<ResourcesDeallocated> 30Gb/s
+[LRM4]<ResourcesDeallocated> 30Gb/s
+[LRM2]<ResourcesDeallocated> 30Gb/s
+[LRM1]<ResourcesDeallocated> 30Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 150Gb/s
+[LRM3]<ResourcesAllocated> 150Gb/s
+[LRM4]<ResourcesAllocated> 150Gb/s
+[LRM2]<ResourcesAllocated> 150Gb/s
+[LRM1]<ResourcesAllocated> 150Gb/s
+[LRMs <LocalTopology> 
+<LinkDeallocationIndicator> 150Gb/s
+[LRM3]<ResourcesDeallocated> 150Gb/s
+[LRM4]<ResourcesDeallocated> 150Gb/s
+[LRM2]<ResourcesDeallocated> 150Gb/s
+[LRM1]<ResourcesDeallocated> 150Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 15Gb/s
+[LRM1]<ResourcesAllocated> 15Gb/s
+[LRM2]<ResourcesAllocated> 15Gb/s
+[LRM4]<ResourcesAllocated> 15Gb/s
+[LRM3]<ResourcesAllocated> 15Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP Negotiation> 9, MyProposal:44, 45, 46, 47, 48, 49, 50, 51, 52, 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 15Gb/s
+[LRM3]<ResourcesAllocated> 15Gb/s
+[LRM4]<ResourcesAllocated> 15Gb/s
+[LRM5]<ResourcesAllocated> 15Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 12Gb/s
+[LRM3]<ResourcesAllocated> 12Gb/s
+[LRM4]<ResourcesAllocated> 12Gb/s
+[LRM5]<ResourcesAllocated> 12Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM5]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 25Gb/s
+[LRM1]<ResourcesAllocated> 25Gb/s
+[LRM2]<ResourcesAllocated> 25Gb/s
+[LRM5]<ResourcesAllocated> 25Gb/s
+[LRMs <LocalTopology> 
+<LinkConnectionIndicator> 10Gb/s
+[LRM3]<ResourcesAllocated> 10Gb/s
+[LRM4]<ResourcesAllocated> 10Gb/s
+[LRM2]<ResourcesAllocated> 10Gb/s
+[LRM1]<ResourcesAllocated> 10Gb/s
+[LRMs <LocalTopology> 
+<SMPNegotiationIndicator>
+<SNP NegotiationReponse>
+<LinkConnectionIndicator> 15Gb/s
+[LRM1]<ResourcesAllocated> 15Gb/s
+[LRM2]<ResourcesAllocated> 15Gb/s
+[LRM5]<ResourcesAllocated> 15Gb/s
+[LRMs <LocalTopology> 

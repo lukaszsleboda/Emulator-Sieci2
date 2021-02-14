@@ -1,0 +1,1 @@
+dotnet build TSST_proj2.sln

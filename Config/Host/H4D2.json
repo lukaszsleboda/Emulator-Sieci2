@@ -1,0 +1,13 @@
+﻿{
+    "HostName": "H4D2",
+    "IpAddress": "127.0.0.14",
+    "Port": 10114,
+    "CloudIP": "127.0.0.1",
+    "CloudPort": 10001,
+    "HostList": [ "H1D1", "H2D1", "H3D2" ],
+    "CPCC": {
+        "Name": "CPCC4",
+        "NCCIp": "127.0.0.32",
+        "NCCPort":  30112
+    }
+}

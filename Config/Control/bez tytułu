@@ -1,0 +1,101 @@
+    "Routers":[
+      {
+        "Name": "R4",
+        "Interfaces":[
+          {
+            "SNP": 40304,
+            "LinkID":7
+          },
+          {
+            "SNP": 40302,
+            "LinkID":6
+          },
+          {
+            "SNP": 40303,
+            "LinkID":8
+          }
+        ]
+      },
+      {
+        "Name": "R6",
+        "Interfaces":[
+          {
+            "SNP": 60301,
+            "LinkID":7
+          },
+          {
+            "SNP": 60302,
+            "LinkID":13
+          },
+          {
+            "SNP": 60303,
+            "LinkID":9
+          }
+        ]
+      },
+      {
+        "Name": "R7",
+        "Interfaces":[
+          {
+            "SNP": 70301,
+            "LinkID":9
+          },
+          {
+            "SNP": 70303,
+            "LinkID":10
+          },
+          {
+            "SNP": 70302,
+            "LinkID":8
+          },
+          {
+            "SNP": 70304,
+            "LinkID":11
+          }
+        ]
+      },
+      {
+        "Name": "R5",
+        "Interfaces":[
+          {
+            "SNP": 50301,
+            "LinkID":6
+          },
+          {
+            "SNP": 50302,
+            "LinkID":5
+          },
+          {
+            "SNP": 50303,
+            "LinkID":10
+          }
+        ]
+      },
+      {
+        "Name": "R8",
+        "Interfaces":[
+          {
+            "SNP": 80301,
+            "LinkID":13
+          }
+        ]
+      },
+      {
+        "Name": "R9",
+        "Interfaces":[
+          {
+            "SNP": 90301,
+            "LinkID":11
+          }
+        ]
+      },
+      {
+        "Name": "R3",
+        "Interfaces":[
+          {
+            "SNP": 30302,
+            "LinkID":5
+          }
+        ]
+      }
+    ]

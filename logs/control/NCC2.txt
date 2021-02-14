@@ -1,0 +1,2698 @@
+<CallCoordinationIndicator> H1D1 -> H2D1 /10/Mb/s
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallAcceptRequest> H1D1 -> H2D1 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallRequestIndicator> H1D1 -> H3D2 /10/Mb/s
+<PolicyRequest>: H1D1
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyConfirm>: H1D1 VALID OK
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallCoordinationRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H2D1 /10/Mb/s
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallAcceptRequest> H1D1 -> H2D1 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H2D1 /10/Mb/s
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallAcceptRequest> H1D1 -> H2D1 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallRequestIndicator> H1D1 -> H3D2 /10/Mb/s
+<PolicyRequest>: H1D1
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyConfirm>: H1D1 VALID OK
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<CallRequestIndicator> H3D2 -> H1D1 /10/Mb/s
+<PolicyRequest>: H3D2
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallRequestIndicator> H3D2 -> H1D1 /10/Mb/s
+<PolicyRequest>: H3D2
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<ConnectionRequestResponse> 127.0.0.13:10113-> 127.0.0.11:10111 /10/Mb/s
+<DirectoryRequestRequest>: 127.0.0.13:10113
+<DirectoryRequestConfirm>: 127.0.0.13:10113 -> H3D2
+<DirectoryRequestRequest>: 127.0.0.11:10111
+<DirectoryRequestConfirm>: 127.0.0.11:10111 -> H1D1
+<ConnectionRequestResponse> H3D2-> H1D1 /10/Mb/s
+<CallRequestIndicator> H3D2 -> H1D1 /10/Mb/s
+<PolicyRequest>: H3D2
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<ConnectionRequestResponse> 127.0.0.13:10113-> 127.0.0.11:10111 /10/Mb/s
+<DirectoryRequestRequest>: 127.0.0.13:10113
+<DirectoryRequestConfirm>: 127.0.0.13:10113 -> H3D2
+<DirectoryRequestRequest>: 127.0.0.11:10111
+<DirectoryRequestConfirm>: 127.0.0.11:10111 -> H1D1
+<ConnectionRequestResponse> H3D2-> H1D1 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallRequestIndicator> H3D2 -> H1D1 /10/Mb/s
+<PolicyRequest>: H3D2
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallRequestIndicator> H3D2 -> H1D1 /10/Mb/s
+<PolicyRequest>: H3D2
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s
+<ConnectionRequestResponse> 127.0.0.13:10113-> 127.0.0.11:10111 /10/Mb/s
+<DirectoryRequestRequest>: 127.0.0.13:10113
+<DirectoryRequestConfirm>: 127.0.0.13:10113 -> H3D2
+<DirectoryRequestRequest>: 127.0.0.11:10111
+<DirectoryRequestConfirm>: 127.0.0.11:10111 -> H1D1
+<ConnectionRequestResponse> H3D2-> H1D1 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Mb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Mb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Mb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /60/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /60/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /50/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /50/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /50/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /50/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /55/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /55/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /55/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /55/Gb/s
+<CallRequestIndicator> H4D2 -> H1D1 /30/Gb/s
+<PolicyRequest>: H4D2
+<PolicyConfirm>: H4D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H4D2 -> H1D1 /30/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s
+<CallRequestIndicator> H4D2 -> H1D1 /30/Gb/s
+<PolicyRequest>: H4D2
+<PolicyConfirm>: H4D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H4D2 -> H1D1 /30/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s
+<CallCoordinationIndicator> H1D1 -> H4D2 /20/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<CallAcceptRequest> H1D1 -> H4D2 /20/Gb/s
+<CallAcceptConfirm> H1D1 -> H4D2 /20/Gb/s
+<CallCoordinationResponse> H1D1 -> H4D2 /20/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /40/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /40/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /40/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /40/Gb/s
+<CallCoordinationIndicator> H1D1 -> H4D2 /60/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<CallAcceptRequest> H1D1 -> H4D2 /60/Gb/s
+<CallAcceptConfirm> H1D1 -> H4D2 /60/Gb/s
+<CallCoordinationResponse> H1D1 -> H4D2 /60/Gb/s
+<CallRequestIndicator> H3D2 -> H2D1 /20/Gb/s
+<PolicyRequest>: H3D2
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallCoordinationRequest> H3D2 -> H2D1 /20/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s
+<ConnectionRequestResponse> 127.0.0.13:10113-> 127.0.0.12:10112 /20/Gb/s
+<DirectoryRequestRequest>: 127.0.0.13:10113
+<DirectoryRequestConfirm>: 127.0.0.13:10113 -> H3D2
+<DirectoryRequestRequest>: 127.0.0.12:10112
+<DirectoryRequestConfirm>: 127.0.0.12:10112 -> H2D1
+<CallRequestResponse> H3D2-> H2D1 /20/Gb/s
+<CallRequestIndicator> H3D2 -> H1D1 /40/Gb/s
+<PolicyRequest>: H3D2
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<CallCoordinationRequest> H3D2 -> H1D1 /40/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H1D1
+<DirectoryRequestConfirm>: H1D1 -> 127.0.0.11:10111
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 /40/Gb/s
+<ConnectionRequestResponse> 127.0.0.13:10113-> 127.0.0.11:10111 /40/Gb/s
+<DirectoryRequestRequest>: 127.0.0.13:10113
+<DirectoryRequestConfirm>: 127.0.0.13:10113 -> H3D2
+<DirectoryRequestRequest>: 127.0.0.11:10111
+<DirectoryRequestConfirm>: 127.0.0.11:10111 -> H1D1
+<CallRequestResponse> H3D2-> H1D1 /40/Gb/s
+<CallRequestIndicator> H3D2 -> H2D1 /20/Gb/s
+<PolicyRequest>: H3D2
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallCoordinationRequest> H3D2 -> H2D1 /20/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<ConnectionRequestRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s
+<CallCoordinationIndicator> H2D1 -> H3D2 /50/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H2D1 -> H3D2 /50/Gb/s
+<CallAcceptConfirm> H2D1 -> H3D2 /50/Gb/s
+<CallCoordinationResponse> H2D1 -> H3D2 /50/Gb/s
+<CallCoordinationIndicator> H2D1 -> H3D2 /100/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H2D1 -> H3D2 /100/Gb/s
+<CallAcceptConfirm> H2D1 -> H3D2 /100/Gb/s
+<CallCoordinationResponse> H2D1 -> H3D2 /100/Gb/s
+<CallCoordinationIndicator> H2D1 -> H3D2 /50/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallTeardownRequest> H2D1 -> H3D2 /50/Gb/s
+<CallAcceptConfirm> H2D1 -> H3D2 /50/Gb/s
+<CallCoordinationResponse> H2D1 -> H3D2 /50/Gb/s
+<CallRequestIndicator> H3D2 -> H2D1 /25/Gb/s
+<PolicyRequest>: H3D2
+<PolicyConfirm>: H3D2 VALID OK
+<DirectoryRequestRequest>: H2D1
+<DirectoryRequestConfirm>: H2D1 -> 127.0.0.12:10112
+<CallCoordinationRequest> H3D2 -> H2D1 /25/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /200/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /200/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /200/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /200/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /15/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /15/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /15/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /15/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /12/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /12/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /12/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /12/Gb/s
+<CallRequestIndicator> H4D2 -> H3D2 /10/Gb/s
+<PolicyRequest>: H4D2
+<PolicyConfirm>: H4D2 VALID OK
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H4D2 -> H3D2 /10/Gb/s
+<CallAcceptConfirm> H4D2 -> H3D2 /10/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<ConnectionRequestRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s
+<CallRequestIndicator> H4D2 -> H3D2 /10/Gb/s
+<PolicyRequest>: H4D2
+<PolicyConfirm>: H4D2 VALID OK
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H4D2 -> H3D2 /10/Gb/s
+<CallAcceptConfirm> H4D2 -> H3D2 /10/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<ConnectionRequestRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s
+<CallRequestIndicator> H4D2 -> H3D2 /10/Gb/s
+<PolicyRequest>: H4D2
+<PolicyConfirm>: H4D2 VALID OK
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H4D2 -> H3D2 /10/Gb/s
+<CallAcceptConfirm> H4D2 -> H3D2 /10/Gb/s
+<DirectoryRequestRequest>: H4D2
+<DirectoryRequestConfirm>: H4D2 -> 127.0.0.14:10114
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<ConnectionRequestRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s
+<CallCoordinationIndicator> H1D1 -> H3D2 /10/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H1D1 -> H3D2 /10/Gb/s
+<CallAcceptConfirm> H1D1 -> H3D2 /10/Gb/s
+<CallCoordinationResponse> H1D1 -> H3D2 /10/Gb/s
+<CallCoordinationIndicator> H2D1 -> H3D2 /25/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H2D1 -> H3D2 /25/Gb/s
+<CallAcceptConfirm> H2D1 -> H3D2 /25/Gb/s
+<CallCoordinationResponse> H2D1 -> H3D2 /25/Gb/s
+<CallCoordinationIndicator> H2D1 -> H3D2 /15/Gb/s
+<DirectoryRequestRequest>: H3D2
+<DirectoryRequestConfirm>: H3D2 -> 127.0.0.13:10113
+<CallAcceptRequest> H2D1 -> H3D2 /15/Gb/s
+<CallAcceptConfirm> H2D1 -> H3D2 /15/Gb/s
+<CallCoordinationResponse> H2D1 -> H3D2 /15/Gb/s

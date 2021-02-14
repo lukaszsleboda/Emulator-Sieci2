@@ -1,0 +1,11 @@
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [Lambdas: (12, 23)]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [required_lambdas:5 starts_at: 5]: Test message
+[PACKET SEND] H1 -> H2 of 12Mb/s [required_lambdas:5 starts_at: 5]: Test message

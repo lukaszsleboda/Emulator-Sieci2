@@ -1,0 +1,248 @@
+{
+  "DevName": "ControlD2",
+  "SubnetName": "D2",
+  "IP": "127.0.0.42",
+  "Port": 40112,
+  "NeighbourControlModels": [
+    {
+      "Name": "S2",
+      "IP": "127.0.0.43",
+      "Port":40113
+    },
+    {
+      "Name": "D1",
+      "IP": "127.0.0.41",
+      "Port":40111
+    }
+  ],
+  "CCModel":{
+    "Name": "CC2",
+    "NetworkDevices":[
+      {
+        "Name":"H3D2",
+        "IP":"127.0.0.13",
+        "Port":10113,
+        "DeviceType":"HOST",
+        "Links":[5],
+        "SNPs": [80302]
+      },
+      {
+        "Name":"R8",
+        "IP":"127.0.0.28",
+        "Port":20118,
+        "DeviceType":"ROUTER",
+        "Links":[14, 13],
+        "SNPs": [80301,80302]
+      },
+
+      {
+        "Name":"H4D2",
+        "IP":"127.0.0.14",
+        "Port":10114,
+        "DeviceType":"HOST",
+        "Links":[5],
+        "SNPs": [90302]
+      },
+      {
+        "Name":"R9",
+        "IP":"127.0.0.29",
+        "Port":20119,
+        "DeviceType":"ROUTER",
+        "Links":[11,12],
+        "SNPs": [90301, 90302]
+      },
+      {
+        "Name":"D1",
+        "IP":"127.0.0.41",
+        "Port":40111,
+        "DeviceType":"DOMAIN",
+        "Links":[5],
+        "SNPs": [30302]
+      },
+      {
+        "Name":"S2",
+        "IP":"127.0.0.43",
+        "Port":40113,
+        "DeviceType":"SUBNETWORK",
+        "Links":[5,13],
+        "SNPs": [50302,60302],
+        "Links":[5,13,11],
+        "SNPs": [50302, 60302, 70304]
+      },
+      {
+        "Name":"H1D1",
+        "IP":"127.0.0.11",
+        "Port":10111,
+        "DeviceType":"HOST",
+        "Links":[5],
+        "SNPs": [50302]
+      },
+      {
+        "Name":"H2D1",
+        "IP":"127.0.0.12",
+        "Port":10112,
+        "DeviceType":"HOST",
+        "Links":[5],
+        "SNPs": [50302]
+      }
+    ]
+  },
+  "NCCModel":{
+    "Name": "NCC2",
+    "IP": "127.0.0.32",
+    "Port": 30112
+  },
+  "RCModel":{
+    "Name": "RC2",
+    "Routers":
+    [
+      {
+        "Name": "R8",
+        "Interfaces":[
+          {
+            "SNP": 80302,
+            "LinkID": 14
+          },
+          {
+            "SNP": 80301,
+            "LinkID": 13
+          }
+      ]
+    },
+    {
+      "Name": "H3D2",
+      "Interfaces":[
+        {
+          "SNP": 10113,
+          "LinkID": 14
+        }
+    ]
+    },
+    {
+      "Name": "H4D2",
+      "Interfaces":[
+        {
+          "SNP": 10114,
+          "LinkID": 12
+        }
+    ]
+    },
+    {
+      "Name": "R9",
+      "Interfaces":[
+        {
+          "SNP": 90302,
+          "LinkID": 12
+        }
+    ]
+    },
+    {
+      "Name": "S2",
+      "Interfaces":[
+        {
+          "SNP": 60302,
+          "LinkID": 13
+        },
+        {
+          "SNP": 50302,
+          "LinkID": 5
+        }
+    ]
+    },
+    {
+      "Name": "R3",
+      "Interfaces":[
+        {
+          "SNP": 30302,
+          "LinkID": 5
+        }
+    ]
+    }
+    ]
+
+  },
+  "LRMModel":
+  {
+    "Name": "LRM2",
+    "Links": [
+      {
+        "LinkName": 11,
+        "SNP1": 70304,
+        "SNP2": 90301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "lenght": 30,
+        "isAlive": true
+      },
+      {
+        "LinkName": 12,
+        "SNP1": 90302,
+        "SNP2": 10114,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "lenght": 30,
+        "isAlive": true
+      },
+      {
+        "LinkName": 13,
+        "SNP1": 60302,
+        "SNP2": 80301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "lenght": 30,
+        "isAlive": true
+      },
+      {
+        "LinkName": 14,
+        "SNP1": 10113,
+        "SNP2": 80302,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "lenght": 30,
+        "isAlive": true
+      },
+      {
+        "LinkName": 5,
+        "SNP1": 30302,
+        "SNP2": 50302,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "lenght": 70,
+        "isAlive": true
+      }]
+  },
+  "distances":{
+    "hosty":[
+      {
+        "ip1":"127.0.0.13",
+        "ip2":"127.0.0.14",
+        "droga":120
+      },
+      {
+        "ip1":"127.0.0.13",
+        "ip2":"127.0.0.11",
+        "droga":230
+      },
+      {
+        "ip1":"127.0.0.13",
+        "ip2":"127.0.0.12",
+        "droga":230
+      },
+      {
+        "ip1":"127.0.0.14",
+        "ip2":"127.0.0.11",
+        "droga":210
+      },
+      {
+        "ip1":"127.0.0.14",
+        "ip2":"127.0.0.12",
+        "droga":210
+      }
+    ]
+  }
+}

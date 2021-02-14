@@ -1,0 +1,238 @@
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H4D2
+<PolicyResponse>: H4D2 VALID OK
+<PolicyIndicator>: H4D2
+<PolicyResponse>: H4D2 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H3D2
+<PolicyResponse>: H3D2 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H4D2
+<PolicyResponse>: H4D2 VALID OK
+<PolicyIndicator>: H4D2
+<PolicyResponse>: H4D2 VALID OK
+<PolicyIndicator>: H4D2
+<PolicyResponse>: H4D2 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK
+<PolicyIndicator>: H1D1
+<PolicyResponse>: H1D1 VALID OK
+<PolicyIndicator>: H2D1
+<PolicyResponse>: H2D1 VALID OK

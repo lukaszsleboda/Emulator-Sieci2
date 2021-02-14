@@ -1,0 +1,56 @@
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 51]: H1D1&H2D1&10&3&51
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 21]: H1D1&H2D1&10&3&21
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 69]: H1D1&H2D1&10&3&69
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 75]: H1D1&H2D1&10&3&75
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 18]: H1D1&H2D1&10&3&18
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 70]: H1D1&H2D1&10&3&70
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 37]: H1D1&H2D1&10&3&37
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 66]: H1D1&H2D1&10&3&66
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 67]: H1D1&H2D1&10&3&67
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 2]: H1D1&H2D1&10&3&2
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 33]: H1D1&H2D1&10&3&33
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 44]: H1D1&H2D1&10&3&44
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 45]: H1D1&H2D1&10&3&45
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 73]: H1D1&H2D1&10&3&73
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 86]: H1D1&H2D1&10&3&86
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 62]: H1D1&H2D1&10&3&62
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 7]: H1D1&H2D1&10&3&7
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 11]: H1D1&H2D1&10&3&11
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 1]: H1D1&H2D1&10&3&1
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 1]: H1D1&H2D1&10&3&1
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 57]: H1D1&H2D1&10&3&57
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 82]: H1D1&H2D1&10&3&82
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 50]: H1D1&H2D1&10&3&50
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 35]: H1D1&H2D1&10&3&35
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 45]: H1D1&H2D1&10&3&45
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 13]: H1D1&H2D1&10&3&13
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 12]: H1D1&H2D1&10&3&12
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 9]: H1D1&H2D1&10&3&9
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 12]: H1D1&H2D1&10&3&12
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 3 starts_at: 47]: H1D1&H2D1&10&3&47
+[PACKET GOT] H1D1 -> H2D1 of 10Mb/s [Required_lambdas: 2 starts_at: 3]: H1D1&H2D1&10&2&3
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 5 starts_at: 41]: H1D1&H2D1&60&5&41
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 2 starts_at: 19]: H1D1&H2D1&60&2&19
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 2 starts_at: 65]: H1D1&H2D1&60&2&65
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 2 starts_at: 70]: H1D1&H2D1&60&2&70
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 2 starts_at: 76]: H1D1&H2D1&60&2&76
+[PACKET GOT] H1D1 -> H2D1 of 60Gb/s [Required_lambdas: 2 starts_at: 52]: H1D1&H2D1&60&2&52
+[PACKET GOT] H3D2 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 68]: sdadsdas
+[PACKET GOT] H3D2 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 68]: iuui
+[PACKET GOT] H3D2 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 68]: ddssd
+[PACKET GOT] H1D1 -> H2D1 of 10Gb/s [Required_lambdas: 1 starts_at: 36]: noelo
+[PACKET SEND] H2D1 -> H3D2 of 50Gb/s [required_lambdas:3 starts_at: 62]: dsdsds
+[PACKET SEND] H2D1 -> H3D2 of 50Gb/s [required_lambdas:3 starts_at: 62]: a
+[PACKET SEND] H2D1 -> H3D2 of 100Gb/s [required_lambdas:5 starts_at: 24]: b
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 44]: aa
+[PACKET GOT] H1D1 -> H2D1 of 100Gb/s [Required_lambdas: 4 starts_at: 82]: dd
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 17]: sdd
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 17]: llk
+[PACKET GOT] H1D1 -> H2D1 of 10Gb/s [Required_lambdas: 1 starts_at: 54]: dffd
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 14]: sdsd
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 35]: iii
+[PACKET GOT] H1D1 -> H2D1 of 20Gb/s [Required_lambdas: 1 starts_at: 35]: kk
+[PACKET SEND] H2D1 -> H1D1 of 15Gb/s [required_lambdas:1 starts_at: 72]: ghgh
+[PACKET SEND] H2D1 -> H3D2 of 25Gb/s [required_lambdas:2 starts_at: 18]: gg
+[PACKET SEND] H2D1 -> H3D2 of 25Gb/s [required_lambdas:2 starts_at: 18]: okj
+[PACKET SEND] H2D1 -> H3D2 of 15Gb/s [required_lambdas:1 starts_at: 42]: frg

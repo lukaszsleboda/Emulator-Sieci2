@@ -1,0 +1,2312 @@
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.11:10111 -> 127.0.0.12:10112 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.11:10111 -> 127.0.0.12:10112 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestReponse> Reponse
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationResponse>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /10/Mb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Mb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionDeallocation> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 55Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s 
+<PeerCoordinationRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R9 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.11:10111 /30/Gb/s 
+<PeerCoordinationRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.11:10111 30Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R9 Table Updated>
+<ConnectionRequest> Call to Sub
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.14:10114 20Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 20Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.14:10114 20Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 20Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R9 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 40Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.14:10114 60Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R9 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.11:10111 /40/Gb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s
+<RouteTableQueryRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s
+<RouteTableQueryConfirm> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s 
+<LinkConnectionRequest> 127.0.0.13:10113 -> 127.0.0.11:10111 40Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequestIndicator> 127.0.0.13:10113 -> 127.0.0.12:10112 /20/Gb/s 
+<PeerCoordinationRequest> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<LinkConnectionDeallocation> 127.0.0.13:10113 -> 127.0.0.12:10112 20Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<Router R8 Table Updated>
+<ConnectionRequest> Call to Sub
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 100Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionDeallocation> 127.0.0.12:10112 -> 127.0.0.13:10113 50Gb/s
+<LinkConnectionConfirm> LinksDeallocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksDeallocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 200Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 200Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 200Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 200Gb/s
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 15Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 12Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R9 Table Updated>
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R9 Table Updated>
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionRequestIndicator> 127.0.0.14:10114 -> 127.0.0.13:10113 /10/Gb/s 
+<RouteTableQueryRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.14:10114 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<Router R9 Table Updated>
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<PeerCoordinationIndicator> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s
+<RouteTableQueryConfirm> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s 
+<LinkConnectionRequest> 127.0.0.11:10111 -> 127.0.0.13:10113 10Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 25Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>
+<PeerCoordinationIndicator> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s
+<RouteTableQueryConfirm> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s 
+<LinkConnectionRequest> 127.0.0.12:10112 -> 127.0.0.13:10113 15Gb/s
+<LinkConnectionConfirm> LinksAlocated
+<ConnectionRequest> Call to Sub
+<Router R8 Table Updated>
+<ConnectionlRequestResponse> Subnetwork finished
+<LinkConnectionConfirm> LinksAlocated
+<PeerCoordinationResponse>

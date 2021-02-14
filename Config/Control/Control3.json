@@ -1,0 +1,272 @@
+{
+  "DevName": "ControlS2",
+  "SubnetName": "S2",
+  "IP": "127.0.0.43",
+  "Port": 40113,
+  "NeighbourControlModels": [
+    {
+      "Name": "D2",
+      "IP": "127.0.0.42",
+      "Port":40112
+    }
+  ],
+  "CCModel":{
+    "Name": "CC3",
+    "NetworkDevices":[
+      {
+        "Name":"R6",
+        "IP":"127.0.0.26",
+        "Port":20116,
+        "DeviceType":"ROUTER",
+        "Links":[ 13,9,7 ],
+        "SNPs": [60301,60302,60303]
+      },
+      {
+        "Name":"R7",
+        "IP":"127.0.0.27",
+        "Port":20117,
+        "DeviceType":"ROUTER",
+        "Links":[ 8,9,10,11 ],
+        "SNPs": [70301,70302,70303,70304]
+      },
+      {
+        "Name":"R5",
+        "IP":"127.0.0.25",
+        "Port":20115,
+        "DeviceType":"ROUTER",
+        "Links":[ 5,6,10 ],
+        "SNPs": [50301,50302,50303]
+      },
+      {
+        "Name":"R4",
+        "IP":"127.0.0.24",
+        "Port":20114,
+        "DeviceType":"ROUTER",
+        "Links":[ 6,7,8 ],
+        "SNPs":[40302,40303,40304]
+      },
+      {
+        "Name":"D2R8",
+        "IP":"127.0.0.42",
+        "Port":40112,
+        "DeviceType":"UpperSubnetwork",
+        "Links":[13],
+        "SNPs": [80301]
+      },
+      {
+        "Name":"D2R9",
+        "IP":"127.0.0.42",
+        "Port":40112,
+        "DeviceType":"UpperSubnetwork",
+        "Links":[ 11 ],
+        "SNPs": [90301]
+      },
+      {
+        "Name":"D1R3",
+        "IP":"127.0.0.42",
+        "Port":40112,
+        "DeviceType":"UpperSubnetwork",
+        "Links":[ 5 ],
+        "SNPs": [30302]
+      }
+    ]
+  },
+  "NCCModel":{
+    "Name": "NCC2",
+    "IP": "127.0.0.32",
+    "Port": 30112
+  },
+  "RCModel":{
+    "Name":"RC3",
+    "Routers":[
+      {
+        "Name": "R4",
+        "Interfaces":[
+          {
+            "SNP": 40304,
+            "LinkID":7
+          },
+          {
+            "SNP": 40302,
+            "LinkID":6
+          },
+          {
+            "SNP": 40303,
+            "LinkID":8
+          }
+        ]
+      },
+      {
+        "Name": "R6",
+        "Interfaces":[
+          {
+            "SNP": 60301,
+            "LinkID":7
+          },
+          {
+            "SNP": 60302,
+            "LinkID":13
+          },
+          {
+            "SNP": 60303,
+            "LinkID":9
+          }
+        ]
+      },
+      {
+        "Name": "R7",
+        "Interfaces":[
+          {
+            "SNP": 70301,
+            "LinkID":9
+          },
+          {
+            "SNP": 70303,
+            "LinkID":10
+          },
+          {
+            "SNP": 70302,
+            "LinkID":8
+          },
+          {
+            "SNP": 70304,
+            "LinkID":11
+          }
+        ]
+      },
+      {
+        "Name": "R5",
+        "Interfaces":[
+          {
+            "SNP": 50301,
+            "LinkID":6
+          },
+          {
+            "SNP": 50302,
+            "LinkID":5
+          },
+          {
+            "SNP": 50303,
+            "LinkID":10
+          }
+        ]
+      },
+      {
+        "Name": "R8",
+        "Interfaces":[
+          {
+            "SNP": 80301,
+            "LinkID":13
+          }
+        ]
+      },
+      {
+        "Name": "R9",
+        "Interfaces":[
+          {
+            "SNP": 90301,
+            "LinkID":11
+          }
+        ]
+      },
+      {
+        "Name": "R3",
+        "Interfaces":[
+          {
+            "SNP": 30302,
+            "LinkID":5
+          }
+        ]
+      }
+    ]
+  },
+  "LRMModel":
+  {
+    "Name": "LRM3",
+    "Links": [
+      {
+        "LinkName": 6,
+        "SNP1": 40302,
+        "SNP2": 50301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":20,
+        "isAlive": true
+      },
+      {
+        "LinkName": 7,
+        "SNP1": 40304,
+        "SNP2": 60301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":20,
+        "isAlive": true
+      },
+      {
+        "LinkName": 8,
+        "SNP1": 40303,
+        "SNP2": 70302,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":20,
+        "isAlive": true
+      },
+      {
+        "LinkName": 9,
+        "SNP1": 60303,
+        "SNP2": 70301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":20,
+        "isAlive": true
+      },
+      {
+        "LinkName": 10,
+        "SNP1": 50303,
+        "SNP2": 70303,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":20,
+        "isAlive": true
+      },
+      {
+        "LinkName": 5,
+        "SNP1": 50302,
+        "SNP2": 30302,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":70,
+        "isAlive": true
+      },
+      {
+        "LinkName": 13,
+        "SNP1": 60302,
+        "SNP2": 80301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":30,
+        "isAlive": true
+      },
+      {
+        "LinkName": 11,
+        "SNP1": 70304,
+        "SNP2": 90301,
+        "actualBandwidth": 1000,
+        "maxBandwidth": 1000,
+        "usingLambdas": [],
+        "length":30,
+        "isAlive": true
+      }
+    ]
+  },
+  "distances":{
+    "hosty":[]
+  }
+}

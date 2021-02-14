@@ -1,0 +1,7 @@
+{
+  "Name": "R3",
+  "IpAddress": "127.0.0.23",
+  "Port": 20113,
+  "CloudIP": "127.0.0.1",
+  "CloudPort": 10001
+}
